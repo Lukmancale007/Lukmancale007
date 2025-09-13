@@ -1,5 +1,13 @@
 # 💫 About Me:
-Saya adalah Programmer Handal
+👋 Halo! Saya seorang software developer dengan minat besar di bidang web development, baik di sisi backend maupun frontend.
+
+Saya memiliki pengalaman dalam membangun aplikasi menggunakan:
+ -Laravel & Livewire untuk backend dan komponen interaktif
+-MySQL untuk pengelolaan database
+-Vue.js dan React untuk frontend yang dinamis dan responsif
+Saya selalu berusaha menulis kode yang bersih, efisien, dan mudah dipelihara.
+🚀 Di GitHub ini, saya membagikan berbagai proyek open-source, eksperimen pribadi, dan kontribusi pada komunitas developer.
+Terima kasih sudah berkunjung!
 
 
 ## 🌐 Socials:
