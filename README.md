@@ -10,7 +10,9 @@ Saya memiliki pengalaman dalam membangun aplikasi menggunakan:
 -Vue.js dan React untuk frontend yang dinamis dan responsif
 
 Saya selalu berusaha menulis kode yang bersih, efisien, dan mudah dipelihara.
+
 🚀 Di GitHub ini, saya membagikan berbagai proyek open-source, eksperimen pribadi, dan kontribusi pada komunitas developer.
+
 Terima kasih sudah berkunjung!
 
 
