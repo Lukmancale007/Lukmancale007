@@ -3,9 +3,11 @@
 
 Saya memiliki pengalaman dalam membangun aplikasi menggunakan:
 
--Laravel & Livewire untuk backend dan komponen interaktif
--MySQL untuk pengelolaan database
--Vue.js dan React untuk frontend yang dinamis dan responsif
+- Laravel & Livewire untuk backend dan komponen interaktif
+
+- MySQL untuk pengelolaan database
+
+- Vue.js dan React untuk frontend yang dinamis dan responsif
 
 Saya selalu berusaha menulis kode yang bersih, efisien, dan mudah dipelihara.
 
